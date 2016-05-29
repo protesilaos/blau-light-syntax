@@ -1,0 +1,20 @@
+{
+  "name": "blau-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Low-to-medium-contrast theme. Inspired by the colours of F.C. Barcelona",
+  "keywords": [
+    "syntax",
+    "theme",
+    "blue",
+    "red",
+    "fcb",
+    "barcelona",
+    "blaugrana"
+  ],
+  "repository": "https://github.com/protesilaos/blau-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
