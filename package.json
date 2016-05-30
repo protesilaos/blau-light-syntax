@@ -1,7 +1,7 @@
 {
   "name": "blau-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Low-to-medium-contrast theme. Inspired by the colours of F.C. Barcelona",
   "keywords": [
     "syntax",
