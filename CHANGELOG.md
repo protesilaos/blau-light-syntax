@@ -12,4 +12,7 @@
 - Refinements to `coffee.less`.
 - Refinements to `slim.less`.
 - Improved support for Jade strings (quoted and interpolated).
-- The `LICENSE` is now appended with `.md` so that it displays on Atom's website.
+
+## 0.4.0
+- Rewrite `javascript.less` for colour consistency.
+- Fix HTML string punctuation.

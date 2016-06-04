@@ -2,10 +2,9 @@
   "name": "blau-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "Low-to-medium-contrast theme. Inspired by the colours of F.C. Barcelona",
+  "description": "Medium-contrast theme. Inspired by the colours of F.C. Barcelona",
   "keywords": [
     "syntax",
-    "theme",
     "blue",
     "red",
     "light",
