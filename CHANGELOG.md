@@ -22,3 +22,6 @@
 - Rewrite `ruby.less` for the same reasons.
 - Refinements to `javascript.less` for support classes and functions.
 - Minor fix to `html.less` for string id.
+
+## 1.0.0
+- Refine palette in `colors.less` to improve contrast.
