@@ -29,3 +29,6 @@
 ## 1.1.0
 - Expand `scss.less` to cover strings, interpolation, keyword control, and support functions.
 - Improve support in `ruby.less` for regexp and support class.
+
+## 1.2.0
+- Rewrite `coffee.less` for visual consistency with JavaScript.
