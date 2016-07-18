@@ -1,6 +1,6 @@
 # Blau syntax theme (light variant)
 
-Medium-contrast theme inspired by the colours of FC Barcelona. Blue is the most prevalent accent, followed by red, and violet.
+Medium contrast theme inspired by FC Barcelona. The most prevalent colours are red, violet, blue, cyan, and magenta.
 
 *Blau* comes in light and dark variants.
 
@@ -12,16 +12,8 @@ Dark variant: [https://atom.io/themes/blau-dark-syntax](https://atom.io/themes/b
 
 ## Screenshots
 
-![blau dark screenshot](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_dark_sample.png)
+![blau dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/blau/img/blau_dark_sample.png)
 
-![blau light screenshot](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_light_sample.png)
+![blau light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/blau/img/blau_light_sample.png)
 
-## Palette
-
-![blau colour scheme](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_colours.png)
-
-## Acknowledgement
-
-The actual code structure is adapted from Simurai's excellent [DuoTone syntax theme](https://github.com/simurai/duotone-syntax). Contrary to DuoTone, Blau uses a 16-colour palette hence the need for adjustments.
-
-Simurai's work is protected by the inclusion of the original MIT License (`license-original.md`).
+*The font in the screenshots is Source Code Pro*.
