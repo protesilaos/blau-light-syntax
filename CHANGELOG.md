@@ -41,3 +41,6 @@
   - @vio from #5F5AB5 to #5E6FB5
   - @mag from #814571 to #A5657A
 - Changed visual order from blu, red, vio, mag, cya to red, vio, blu, cya, mag.
+
+## 2.1.0
+- Code rebase with improvements to Markdown and JavaScript.

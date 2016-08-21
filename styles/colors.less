@@ -1,5 +1,3 @@
-// Blau Syntax Theme
-
 // Color scheme -----------------------------------
 
 @dbg: #28282F; // Dark background
@@ -22,28 +20,30 @@
 @vio: #5E6FB5; // Violet
 @mag: #A5657A; // Magenta
 
-// Variables -----------------------------------
+// Visual order -----------------------------------
 
-@text-1: @lt1; // text primary
-@text-2: @lt2; // text secondary
+@primary1: @red;
+@primary2: @vio;
+@primary3: @blu;
 
-@color-1: @red; // color primary
-@color-2: @vio; // color secondary
-@color-3: @blu; // color tertiary
+@secondary1: @cya;
+@secondary2: @mag;
 
-@support-1: @cya; // support primary
-@support-2: @mag; // support secondary
+@tertiary1: @yel;
+@tertiary2: @gre;
+@tertiary3: @ora;
 
-@accent-1: @yel; // accent primary
-@accent-2: @gre; // accent secondary
-@accent-3: @ora; // accent tertiary
+// Theme variant ----------------------------------
 
-// Base vars -----------------------------------
-
-@syntax-fg: @text-1; // text primary
-@syntax-accent: @accent-1; // accent primary
+@text1: @lt1; // text primary
+@text2: @lt2; // text secondary
 @syntax-bg: @lbg; // background
 @syntax-guide: @lhl; // background highlight
+
+// Atom Base vars ---------------------------------
+
+@syntax-fg: @text1; // text primary
+@syntax-accent: @tertiary1; // cursor, markdown preview links, etc.
 @syntax-selection: @syntax-guide;
 @syntax-selection-gutter: @syntax-guide;
 @syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results
