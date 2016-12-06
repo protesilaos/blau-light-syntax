@@ -22,6 +22,6 @@ apm install blau-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/blau](http://www.protesilaos.com/blau)
+Project page: [https://protesilaos.com/blau](https://protesilaos.com/blau)
 
 Blau dark version: [https://atom.io/themes/blau-dark-syntax](https://atom.io/themes/blau-dark-syntax)
